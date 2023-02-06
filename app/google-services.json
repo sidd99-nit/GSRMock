@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042459916599",
+    "project_id": "gsrmock",
+    "storage_bucket": "gsrmock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042459916599:android:7f168f6bc7af9dfb3582b2",
+        "android_client_info": {
+          "package_name": "com.example.gsrmock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042459916599-dcta7qmp1i11s2ium9cpq4jfb0tk3g7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWCw1V6n2xm5_MKr_PnOFxnzInqTIeRvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042459916599-dcta7qmp1i11s2ium9cpq4jfb0tk3g7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
